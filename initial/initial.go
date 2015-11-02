@@ -3,10 +3,10 @@
  * Copyright © PubCloud
  */
 package initial
-
 import (
 	"fmt"
 )
+
 func init() {
 	fmt.Println("initial...")
 }

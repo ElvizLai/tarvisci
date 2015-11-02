@@ -7,6 +7,7 @@ import (
 	_ "github.com/ElvizLai/travisci/initial"
 	"github.com/astaxie/beego"
 )
+
 func main() {
 	beego.Run()
 }
