@@ -2,9 +2,9 @@ author: ElvizLai
 description: '...'
 includes:
   - README.md
-  - LICENSE
   - conf
 excludes:
   - \.git
+  - .*\.go
 script:
   - godep go build
