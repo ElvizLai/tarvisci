@@ -1,0 +1,10 @@
+author: ElvizLai
+description: '...'
+includes:
+  - README.md
+  - LICENSE
+  - conf
+excludes:
+  - \.git
+script:
+  - godep go build
